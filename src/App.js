@@ -9,13 +9,11 @@ import Cart from './components/Cart';
 import toast,{ Toaster} from 'react-hot-toast';
 // import { ToastContainer,toast} from 'react-toastify';//for adding toast.warn
 import 'react-toastify/dist/ReactToastify.css';//css for toast
-import PopUp from './components/PopUp';
 import { FaShoppingCart } from "react-icons/fa";
 
 function App() {  
   
   const[cartAllProducts,setCartAllProducts] = useState([])  
-  const[showPopup,setShowPopup] = useState(false);
 
     // const handleAddToCart = (items) =>{
     //   console.log(items);
@@ -67,11 +65,7 @@ function App() {
   return (
     <>
     <Header cartAllProducts={cartAllProducts} />
-     {/* {
-      showPopup && (<PopUp message="This item is already in your cart"/>)
-    }  */}
-    {/* <ToastContainer /> */}
-    <Routes>
+     <Routes>
     <Route path='/' element={<Home handleClick={handleAddToCart}/>}/ >
     
     <Route path='/contact' element={<Contact />} />

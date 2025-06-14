@@ -3,7 +3,6 @@ import "./Cart.css";
 import { RxCross2 } from "react-icons/rx";
 
 import toast, { Toaster } from "react-hot-toast";
-import DeletePopup from "./DeletePopup";
   
 
 const Cart = ({ cartAllProducts, setCartAllProducts }) => {
