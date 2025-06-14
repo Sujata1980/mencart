@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sujata1980.github.io/mencart/static/css/main.9d75b231.css",
-    "main.js": "/Sujata1980.github.io/mencart/static/js/main.260abc94.js",
+    "main.js": "/Sujata1980.github.io/mencart/static/js/main.5c3d1909.js",
     "static/js/453.6c8bb174.chunk.js": "/Sujata1980.github.io/mencart/static/js/453.6c8bb174.chunk.js",
     "static/media/men1.webp": "/Sujata1980.github.io/mencart/static/media/men1.86080523aea2d208c9e2.webp",
     "static/media/men17.webp": "/Sujata1980.github.io/mencart/static/media/men17.14297b235ebdf43204f9.webp",
@@ -24,11 +24,11 @@
     "static/media/men15.webp": "/Sujata1980.github.io/mencart/static/media/men15.0290d7871de3659af1a2.webp",
     "index.html": "/Sujata1980.github.io/mencart/index.html",
     "main.9d75b231.css.map": "/Sujata1980.github.io/mencart/static/css/main.9d75b231.css.map",
-    "main.260abc94.js.map": "/Sujata1980.github.io/mencart/static/js/main.260abc94.js.map",
+    "main.5c3d1909.js.map": "/Sujata1980.github.io/mencart/static/js/main.5c3d1909.js.map",
     "453.6c8bb174.chunk.js.map": "/Sujata1980.github.io/mencart/static/js/453.6c8bb174.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d75b231.css",
-    "static/js/main.260abc94.js"
+    "static/js/main.5c3d1909.js"
   ]
 }
