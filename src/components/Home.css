@@ -1,0 +1,34 @@
+.container1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.item-container{
+    min-height:32rem;
+    width:20rem;
+    background-color: rgb(1, 6, 21);
+    margin:3rem;
+    text-align: center;
+    padding:1rem;
+    border-radius: 1rem;
+    color:aliceblue;
+    
+}
+
+.btn{
+   background-color: rgb(1, 1, 72); 
+   color:aliceblue;
+   font-size: 1rem;   
+   padding:1rem; 
+   
+   border-radius:1rem;
+   border: none;
+   width:20rem;
+}
+
+.btn:hover{
+    background:lightblue;
+    color:black;
+}
